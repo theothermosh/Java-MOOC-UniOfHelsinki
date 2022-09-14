@@ -1,2 +1,2 @@
 # Java-MOOC-UniOfHelsinki
-Solution to the exercises of Parts I and II of the Java MOOC offered by University of Helsinki, Finland 
+Solution to the exercises of Java Programming I and Java Programming II courses offered by University of Helsinki, Finland.
